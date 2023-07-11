@@ -1,6 +1,8 @@
 # Professional_Portfolio
 - [Data Analysis on Edx Courses](https://github.com/rahulkothuri/Professional_portfolio/tree/main/EDX_Courses%20Data%20Analysis)
 - [Forbes Billionaires Analysis](https://github.com/rahulkothuri/Professional_portfolio/tree/main/Forbes_Billionaires_analysis)
+- [T20 World Cup 2022 Analysis](https://github.com/rahulkothuri/Professional_portfolio/tree/main/T20%20World%20Cup%202022%20Analysis)
+
 
 # Description
 Welcome to my Data Analysis Portfolio repository! Here, you'll find a collection of my data analysis projects, where I explore and dissect datasets to uncover valuable insights. As a passionate data science student, I have worked on a variety of projects that demonstrate my skills in data cleaning, visualization, statistical analysis, and machine learning.
