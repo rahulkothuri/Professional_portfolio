@@ -2,6 +2,7 @@
 - [Data Analysis on Edx Courses](https://github.com/rahulkothuri/Professional_portfolio/tree/main/EDX_Courses%20Data%20Analysis)
 - [Forbes Billionaires Analysis](https://github.com/rahulkothuri/Professional_portfolio/tree/main/Forbes_Billionaires_analysis)
 - [T20 World Cup 2022 Analysis](https://github.com/rahulkothuri/Professional_portfolio/tree/main/T20%20World%20Cup%202022%20Analysis)
+- [YouTube Tech Channel Analysis](https://github.com/rahulkothuri/Professional_portfolio/tree/main/YouTube%20Tech%20Channel%20Analysis)
 
 
 # Description
